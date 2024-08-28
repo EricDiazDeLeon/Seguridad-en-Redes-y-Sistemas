@@ -1,20 +1,11 @@
 
-## Objetivo 
+## Level Goal
 
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the Level 1 page to find out how to beat Level 1.
-## Datos de acceso al nivel 
+The password for the next level is stored in a file called **-** located in the home directory
 
-user: bandit0
-pass: bandit0
-
-## Solución  
+## Solución
 ```
-
-C:\Users\Eric>ssh bandit0@bandit.labs.overthewire.org -p 2220
-The authenticity of host '[bandit.labs.overthewire.org]:2220 ([13.50.165.192]:2220)' can't be established.
-ECDSA key fingerprint is SHA256:IJ7FrX0mKSSHTJ63ezxjqtnOE0Hg116Aq+v5mN0+HdE.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added '[bandit.labs.overthewire.org]:2220,[13.50.165.192]:2220' (ECDSA) to the list of known hosts.
+PS C:\Users\Eric> ssh bandit1@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -25,10 +16,7 @@ Warning: Permanently added '[bandit.labs.overthewire.org]:2220,[13.50.165.192]:2
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit0@bandit.labs.overthewire.org's password:
-
-
-
+bandit1@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -112,17 +100,14 @@ discord or IRC.
 
   Enjoy your stay!
 
-timed out waiting for input: auto-logout
-Connection to bandit.labs.overthewire.org closed.
+bandit1@bandit:~$ ls
+-
+bandit1@bandit:~$ cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+bandit1@bandit:~$
 ```
 ## Notas Adicionales 
-
-whoami - usuario
-hostname- nombre del servidor
-pwd- te dice en qué carpeta estás
-ls - lista archivos
-clear - borra pantalla
-
+si el nombre del archivo inicia con - hay que enteponer al nombre ./
+por que si no el promt espera parametros adicionales con el comando cat.
 
 ### Referencias
-

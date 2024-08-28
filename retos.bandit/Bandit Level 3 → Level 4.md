@@ -1,20 +1,13 @@
-
-## Objetivo 
-
-The goal of this level is for you to log into the game using SSH. The host to which you need to connect is **bandit.labs.overthewire.org**, on port 2220. The username is **bandit0** and the password is **bandit0**. Once logged in, go to the Level 1 page to find out how to beat Level 1.
+## Objetivo:
+The password for the next level is stored in a hidden file in the **inhere** directory.
 ## Datos de acceso al nivel 
-
-user: bandit0
-pass: bandit0
+bandit3
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Solución  
+lista archivos ocultos con ls -la
 ```
-
-C:\Users\Eric>ssh bandit0@bandit.labs.overthewire.org -p 2220
-The authenticity of host '[bandit.labs.overthewire.org]:2220 ([13.50.165.192]:2220)' can't be established.
-ECDSA key fingerprint is SHA256:IJ7FrX0mKSSHTJ63ezxjqtnOE0Hg116Aq+v5mN0+HdE.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added '[bandit.labs.overthewire.org]:2220,[13.50.165.192]:2220' (ECDSA) to the list of known hosts.
+C:\Users\Eric>ssh bandit3@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
@@ -25,10 +18,7 @@ Warning: Permanently added '[bandit.labs.overthewire.org]:2220,[13.50.165.192]:2
                       This is an OverTheWire game server.
             More information on http://www.overthewire.org/wargames
 
-bandit0@bandit.labs.overthewire.org's password:
-
-
-
+bandit3@bandit.labs.overthewire.org's password:
 
       ,----..            ,----,          .---.
      /   /   \         ,/   .`|         /. ./|
@@ -112,17 +102,31 @@ discord or IRC.
 
   Enjoy your stay!
 
-timed out waiting for input: auto-logout
-Connection to bandit.labs.overthewire.org closed.
+bandit3@bandit:~$ ls
+inhere
+bandit3@bandit:~$ ls -la
+total 24
+drwxr-xr-x  3 root root 4096 Jul 17 15:57 .
+drwxr-xr-x 70 root root 4096 Jul 17 15:58 ..
+-rw-r--r--  1 root root  220 Mar 31 08:41 .bash_logout
+-rw-r--r--  1 root root 3771 Mar 31 08:41 .bashrc
+drwxr-xr-x  2 root root 4096 Jul 17 15:57 inhere
+-rw-r--r--  1 root root  807 Mar 31 08:41 .profile
+bandit3@bandit:~$ cd inhere/
+bandit3@bandit:~/inhere$ ls
+bandit3@bandit:~/inhere$ ls -la
+total 12
+drwxr-xr-x 2 root    root    4096 Jul 17 15:57 .
+drwxr-xr-x 3 root    root    4096 Jul 17 15:57 ..
+-rw-r----- 1 bandit4 bandit3   33 Jul 17 15:57 ...Hiding-From-You
+bandit3@bandit:~/inhere$ cat bandit4
+cat: bandit4: No such file or directory
+bandit3@bandit:~/inhere$ cat ...Hiding-From-You
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+bandit3@bandit:~/inhere$
 ```
+
 ## Notas Adicionales 
-
-whoami - usuario
-hostname- nombre del servidor
-pwd- te dice en qué carpeta estás
-ls - lista archivos
-clear - borra pantalla
-
 
 ### Referencias
 

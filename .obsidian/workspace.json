@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd0b72f097466d86",
+        "id": "3a01b998c4d04cf9",
         "type": "tabs",
         "children": [
           {
-            "id": "29baa97240d29e4f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7cc1928de8f5b5ec",
+            "id": "ca1deb0c7cf81ba1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "retos.bandit/Bandit Level 9 → Level 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "retos.bandit/Bandit Level 9 → Level 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "retos.bandit/Bandit Level 9 → Level 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "retos.bandit/Bandit Level 9 → Level 10.md"
               }
             }
           }
@@ -155,8 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7cc1928de8f5b5ec",
+  "active": "ca1deb0c7cf81ba1",
   "lastOpenFiles": [
+    "retos.bandit/Bandit Level 8 → Level 9.md",
+    "retos.bandit/Bandit Level 9 → Level 10.md",
+    "retos.bandit/Bandit Level 7 → Level 8.md",
+    "retos.bandit/Bandit Level 6 → Level 7.md",
+    "retos.bandit/Bandit Level 5 → Level 6.md",
+    "retos.bandit/Bandit Level 4 → Level 5.md",
+    "retos.bandit/Bandit Level 3 → Level 4.md",
+    "retos.bandit/Bandit Level 2 → Level 3.md",
+    "retos.bandit/Bandit Level 1 → Level 2.md",
+    "retos.bandit/Bandit Level 0 → Level 1.md",
+    "retos.bandit/Bandit Level 0.md",
+    "retos.bandit/Plantilla.md",
+    "Level 0.md",
     "README.md",
     "Bienvenido.md"
   ]
