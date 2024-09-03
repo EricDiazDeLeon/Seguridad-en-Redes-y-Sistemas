@@ -6,7 +6,7 @@ bandit2
 
 ## Solución  
 si el nombre del archivo contiene espacios tenemos 2 opciones usar / antes del espacio o bien delimitar el nombre del archivo con "".
-```
+```bash
 PS C:\Users\Eric> ssh bandit1@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_

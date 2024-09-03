@@ -8,7 +8,7 @@ user: bandit0
 pass: bandit0
 
 ## Solución  
-```
+```bash
 
 C:\Users\Eric>ssh bandit0@bandit.labs.overthewire.org -p 2220
 The authenticity of host '[bandit.labs.overthewire.org]:2220 ([13.50.165.192]:2220)' can't be established.

@@ -9,7 +9,7 @@ bandit5
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 ## Solución  
-```
+```bash
 bandit5@bandit:~$ ls
 inhere
 bandit5@bandit:~$ ls -la

@@ -5,7 +5,7 @@ bandit12
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
 ## Solución  
-```
+```bash
 bandit12@bandit:~$ ls -la
 total 24
 drwxr-xr-x  2 root     root     4096 Jul 17 15:57 .

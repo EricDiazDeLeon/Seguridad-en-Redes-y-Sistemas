@@ -5,7 +5,7 @@ bandit9
 
 
 ## Solución  
-```
+```bash
 bandit9@bandit:~$ ls
 data.txt
 bandit9@bandit:~$ file data.txt

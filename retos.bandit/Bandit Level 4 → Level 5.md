@@ -6,7 +6,7 @@ bandit4
 
 ## Solución 
 cat * es un comodin para usar un comando con todos los archivos del directorio
-```
+```bash
 PS C:\Users\Eric> ssh bandit4@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_

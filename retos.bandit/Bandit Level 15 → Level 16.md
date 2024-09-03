@@ -4,7 +4,7 @@ The password for the next level can be retrieved by submitting the password of t
 bandit15
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ## Solución  
-```
+```bash
 bandit15@bandit:~$ openssl s_client -connect localhost:30001
 CONNECTED(00000003)
 Can't use SSL_get_servername
@@ -149,6 +149,7 @@ bandit15@bandit:~$
 ```
 
 ## Notas Adicionales 
+puede usarse tambien open ssl
 
 
 ### Referencias

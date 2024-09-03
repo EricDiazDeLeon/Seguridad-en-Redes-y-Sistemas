@@ -5,7 +5,7 @@ bandit11
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## Solución  
-```
+```bash
 bandit11@bandit:~$ ls
 data.txt
 bandit11@bandit:~$ cat data.txt

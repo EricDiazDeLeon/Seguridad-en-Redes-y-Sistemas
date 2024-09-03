@@ -4,7 +4,7 @@ The password for the next level can be retrieved by submitting the password of t
 bandit14
 MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ## Solución  
-```
+```bash
 bandit14@bandit:~$ ls
 bandit14@bandit:~$ ls -la
 total 24

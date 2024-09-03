@@ -4,7 +4,7 @@ The password for the next level is stored in **/etc/bandit_pass/bandit14 and ca
 bandit13
 FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ## Solución  
-```
+```bash
 bandit13@bandit:~$ ls -la
 total 24
 drwxr-xr-x  2 root     root     4096 Jul 17 15:57 .

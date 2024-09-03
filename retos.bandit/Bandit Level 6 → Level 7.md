@@ -9,7 +9,7 @@ bandit6
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## Solución  
-```
+```bash
 bandit6@bandit:~$ ls
 bandit6@bandit:~$ find / -user bandit6 -size 33c
 find: ‘/sys/kernel/tracing’: Permission denied

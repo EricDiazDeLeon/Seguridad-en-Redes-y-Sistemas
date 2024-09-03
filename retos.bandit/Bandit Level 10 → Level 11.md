@@ -4,7 +4,7 @@ The password for the next level is stored in the file **data.txt**, which conta
 bandit10
 FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 ## Solución  
-```
+```bash
 bandit10@bandit:~$ ls
 data.txt
 bandit10@bandit:~$ cat data.txt

@@ -6,7 +6,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Solución  
 lista archivos ocultos con ls -la
-```
+```bash
 C:\Users\Eric>ssh bandit3@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_

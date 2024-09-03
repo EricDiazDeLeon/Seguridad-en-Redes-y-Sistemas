@@ -4,7 +4,7 @@
 The password for the next level is stored in a file called **-** located in the home directory
 
 ## Solución
-```
+```bash
 PS C:\Users\Eric> ssh bandit1@bandit.labs.overthewire.org -p 2220
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_

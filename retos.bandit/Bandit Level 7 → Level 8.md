@@ -6,7 +6,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## Solución  
 
-```
+```bash
 bandit7@bandit:~$ ls
 data.txt
 bandit7@bandit:~$ ls -la
