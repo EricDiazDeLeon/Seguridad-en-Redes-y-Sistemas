@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos.bandit/Bandit Level 27 → Level 28.md",
+                "file": "PicoCTF/Big Zip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos.bandit/Bandit Level 27 → Level 28.md",
+                "file": "PicoCTF/Big Zip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos.bandit/Bandit Level 27 → Level 28.md",
+                "file": "PicoCTF/Big Zip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos.bandit/Bandit Level 27 → Level 28.md"
+                "file": "PicoCTF/Big Zip.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "ca1deb0c7cf81ba1",
   "lastOpenFiles": [
-    "retos.bandit/Plantilla.md",
+    "retos.bandit/Bandit Level 1 → Level 2.md",
+    "PicoCTF/Big Zip.md",
     "retos.bandit/Bandit Level 27 → Level 28.md",
+    "PicoCTF",
+    "Nueva carpeta",
+    "retos.bandit/Plantilla.md",
     "retos.bandit/Bandit Level 26 → Level 27.md",
     "retos.bandit/Bandit Level 25 → Level 26.md",
     "retos.bandit/Bandit Level 24 → Level 25.md",
@@ -171,8 +175,6 @@
     "retos.bandit/Bandit Level 9 → Level 10.md",
     "retos.bandit/Bandit Level 8 → Level 9.md",
     "retos.bandit/Bandit Level 7 → Level 8.md",
-    "retos.bandit/Bandit Level 6 → Level 7.md",
-    "retos.bandit/Bandit Level 5 → Level 6.md",
-    "retos.bandit/Bandit Level 4 → Level 5.md"
+    "retos.bandit/Bandit Level 6 → Level 7.md"
   ]
 }
