@@ -9,8 +9,6 @@ ericdiaz-picoctf@webshell:~$ cd big-zip-files/
 ericdiaz-picoctf@webshell:~/big-zip-files$ cd .. 
 ericdiaz-picoctf@webshell:~$ grep -r big-zip-files -e pico
 big-zip-files/folder_pmbymkjcya/folder_cawigcwvgv/folder_ltdayfmktr/folder_fnpfclfyee/whzxrpivpqld.txt:information on the record will last a billion years. Genes and brains and books encode picoCTF{gr3p_15_m4g1c_ef8790dc}
-
-[](https://github.com/armandoportillo0101/Seguridad-de-Redes/blob/main/Plantilla.md#soluci%C3%B3n)
 ```
 
 ## Notas Adicionales
