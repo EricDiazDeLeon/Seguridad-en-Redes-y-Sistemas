@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Parte3/Bases.md",
+                "file": "PicoCTF/Actividad_13/Trickster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Parte3/Bases.md",
+                "file": "PicoCTF/Actividad_13/Trickster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Parte3/Bases.md",
+                "file": "PicoCTF/Actividad_13/Trickster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Parte3/Bases.md"
+                "file": "PicoCTF/Actividad_13/Trickster.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   "active": "ca1deb0c7cf81ba1",
   "lastOpenFiles": [
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Actividad_13/Trickster.md",
+    "Linux - entorno de pruebas.pdf",
+    "PicoCTF/Actividad_13/SOAP.md",
+    "PicoCTF/Actividad_13/Most Cookies.md",
+    "PicoCTF/Actividad_13/MatchTheRegex.md",
+    "PicoCTF/Actividad_12/Scavenger Hunt.md",
+    "PicoCTF/Actividad_13",
+    "PicoCTF/Actividad_12/GET aHEAD.md",
     "PicoCTF/Parte3/Bases.md",
     "PicoCTF/Parte4",
     "PicoCTF/Nueva carpeta",
@@ -173,13 +181,6 @@
     "retos.bandit/Bandit Level 23 → Level 24.md",
     "retos.bandit/Bandit Level 22 → Level 23.md",
     "retos.bandit/Bandit Level 21 → Level 22.md",
-    "retos.bandit/Bandit Level 20 → Level 21.md",
-    "retos.bandit/Bandit Level 19 → Level 20.md",
-    "retos.bandit/Bandit Level 18 → Level 19.md",
-    "retos.bandit/Bandit Level 17 → Level 18.md",
-    "retos.bandit/Bandit Level 16 → Level 17.md",
-    "retos.bandit/Bandit Level 15 → Level 16.md",
-    "retos.bandit/Bandit Level 14 → Level 15.md",
-    "retos.bandit/Bandit Level 13 → Level 14.md"
+    "retos.bandit/Bandit Level 20 → Level 21.md"
   ]
 }
