@@ -17,7 +17,11 @@ message.wav                      100%[=====================
 
 ```
 ## Notas Adicionales 
+Lo primero que hice fue escuchar el archivo, pero como no tenía nada particularmente obvio, decidimos que teniamos que analizarlo más a fondo. Sabía que el reto probablemente implicaba convertir el sonido en algún tipo de visualización, así que abrí el audio en un editor como **Audacity** para echarle un vistazo. Una vez ahí, probé cambiar el formato del espectro y hacer una representación gráfica.
 
-picoCTF{beep_boop_im_in_space}
+Y efectivamente, ahí estaba la magia. Al generar el espectrograma del audio, apareció una imagen bastante clara. A veces, los retos de este tipo tienen mensajes ocultos en la visualización del sonido, y esta vez no fue la excepción. La flag estaba incrustada en la imagen del espectrograma.
+
+Así que, básicamente, el truco fue convertir la señal de audio en una imagen y, una vez hecho eso, leer la flag directamente desde la imagen.
+`picoCTF{beep_boop_im_in_space}`
 ### Referencias
 

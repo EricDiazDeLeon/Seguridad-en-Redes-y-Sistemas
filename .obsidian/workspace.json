@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "309a9bcb8a4c048d",
+    "id": "e619a6f373265013",
     "type": "split",
     "children": [
       {
-        "id": "3a01b998c4d04cf9",
+        "id": "4c96346c6d2595d9",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1deb0c7cf81ba1",
+            "id": "72f8766bad9d331f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ad3e88d4a6102c6",
+    "id": "89e48f67c3496b0a",
     "type": "split",
     "children": [
       {
-        "id": "99b933ab982f1652",
+        "id": "2efccad2adcfc28c",
         "type": "tabs",
         "children": [
           {
-            "id": "41f90ba5e4e333cf",
+            "id": "6946c1bf88a38f3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "6e11ee4bed5c77e0",
+            "id": "8336a550b14393b0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "ebca05000cd79db5",
+            "id": "6f9f7e68b6a1a8c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50384521484375
+    "width": 300
   },
   "right": {
-    "id": "328786efceff6a3f",
+    "id": "0f9fd58a1c60d861",
     "type": "split",
     "children": [
       {
-        "id": "36b1d6afae6e0787",
+        "id": "6620f3287553b865",
         "type": "tabs",
         "children": [
           {
-            "id": "452f3f87b80cf1ce",
+            "id": "c1060ac47a949f64",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "f8c1793a73337aa3",
+            "id": "2e8da13078372dd3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3de3fb0ea88f29d5",
+            "id": "33ee5caa3f3c0463",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "63a577a35979dc4f",
+            "id": "3eb739fab9904d08",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md"
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md"
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_15/m00nwalk.md"
               }
             }
           }
@@ -162,51 +146,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca1deb0c7cf81ba1",
+  "active": "72f8766bad9d331f",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PicoCTF/Actividad_14/Glory of the Garden.md",
-    "PicoCTF/Actividad_14/So Meta.md",
-    "PicoCTF/Actividad_14/shark on wire 1.md",
-    "PicoCTF/Actividad_14/extensions.md",
-    "PicoCTF/Actividad_14/What Lies Within.md",
-=======
->>>>>>> 1fdbdc3 (Act15)
-    "PicoCTF/Plantilla.md",
-    "PicoCTF/Actividad_15/shark on wire 2.md",
-    "PicoCTF/Actividad_15/like1000.md",
-    "PicoCTF/Actividad_15/c0rrupt.md",
-    "PicoCTF/Actividad_15/WhitePages.md",
-    "PicoCTF/Actividad_14/extensions.md",
-    "PicoCTF/Actividad_14/Glory of the Garden.md",
-    "PicoCTF/Actividad_14/So Meta.md",
-    "PicoCTF/Actividad_14/What Lies Within.md",
-    "PicoCTF/Actividad_15/m00nwalk.md",
-    "PicoCTF/Actividad_15",
-    "PicoCTF/Actividad_14/shark on wire 1.md",
-    "PicoCTF/Actividad_13/Trickster.md",
-    "PicoCTF/Actividad_14",
-    "Linux - entorno de pruebas.pdf",
-    "PicoCTF/Actividad_13/SOAP.md",
-    "PicoCTF/Actividad_13/Most Cookies.md",
-    "PicoCTF/Actividad_13/MatchTheRegex.md",
-    "PicoCTF/Actividad_12/Scavenger Hunt.md",
-    "PicoCTF/Actividad_13",
-    "PicoCTF/Actividad_12/GET aHEAD.md",
-    "PicoCTF/Parte3/Bases.md",
-    "PicoCTF/Parte4",
-    "PicoCTF/Nueva carpeta",
-    "PicoCTF/Parte3",
-    "PicoCTF/Parte2",
-    "PicoCTF/Parte1/Binary Search.md",
-    "PicoCTF/Parte1/Big Zip.md",
-    "PicoCTF/binhexa.md",
-    "PicoCTF/Parte1/binhexa.md",
-    "PicoCTF/Parte1",
-    "retos.bandit/Plantilla.md",
-    "PicoCTF/Binary Search.md",
-    "PicoCTF/Big Zip.md",
-    "retos.bandit/Bandit Level 1 → Level 2.md",
-    "PicoCTF"
+    "PicoCTF/Actividad_15/shark on wire 2.md"
   ]
 }
