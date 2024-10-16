@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "1bcd4141e86a03c1",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "aecc74cbb77af6a1",
+=======
+    "id": "e619a6f373265013",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c96346c6d2595d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f8766bad9d331f",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
+=======
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "4e28e7b27b019c97",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "75aed1788b6b933b",
+=======
+    "id": "89e48f67c3496b0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efccad2adcfc28c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6946c1bf88a38f3a",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "81eb45da3f5d2d65",
+=======
+            "id": "8336a550b14393b0",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "b9a5957313b52ffb",
+=======
+            "id": "6f9f7e68b6a1a8c6",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "23756d4c1908febe",
     "type": "split",
     "children": [
@@ -81,11 +118,26 @@
         "children": [
           {
             "id": "23822e087f2f79b0",
+=======
+    "id": "0f9fd58a1c60d861",
+    "type": "split",
+    "children": [
+      {
+        "id": "6620f3287553b865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1060ac47a949f64",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
+=======
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +149,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "60d006ab6451d3be",
+=======
+            "id": "2e8da13078372dd3",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
+=======
+                "file": "PicoCTF/Actividad_15/m00nwalk.md",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "76fc1015c88798f9",
+=======
+            "id": "33ee5caa3f3c0463",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +184,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e36bc8c3bc43f0f9",
+=======
+            "id": "3eb739fab9904d08",
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md"
+=======
+                "file": "PicoCTF/Actividad_15/m00nwalk.md"
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
               }
             }
           }
@@ -146,6 +218,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
+<<<<<<< HEAD
   "active": "aecc74cbb77af6a1",
   "lastOpenFiles": [
     "PicoCTF/Actividad_17/Operation Orchid.md",
@@ -158,5 +231,10 @@
     "MetaredCTF/hashed world408.md",
     "PicoCTF/Actividad_17",
     "Sin título.md"
+=======
+  "active": "72f8766bad9d331f",
+  "lastOpenFiles": [
+    "PicoCTF/Actividad_15/shark on wire 2.md"
+>>>>>>> 0692fdfbf2c162b2864d28c94408166037d5e320
   ]
 }
