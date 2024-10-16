@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "309a9bcb8a4c048d",
+    "id": "1bcd4141e86a03c1",
     "type": "split",
     "children": [
       {
-        "id": "3a01b998c4d04cf9",
+        "id": "73340e704101bb61",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1deb0c7cf81ba1",
+            "id": "aecc74cbb77af6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ad3e88d4a6102c6",
+    "id": "4e28e7b27b019c97",
     "type": "split",
     "children": [
       {
-        "id": "99b933ab982f1652",
+        "id": "4c184c604bacb345",
         "type": "tabs",
         "children": [
           {
-            "id": "41f90ba5e4e333cf",
+            "id": "75aed1788b6b933b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "6e11ee4bed5c77e0",
+            "id": "81eb45da3f5d2d65",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "ebca05000cd79db5",
+            "id": "b9a5957313b52ffb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.50384521484375
+    "width": 300
   },
   "right": {
-    "id": "328786efceff6a3f",
+    "id": "23756d4c1908febe",
     "type": "split",
     "children": [
       {
-        "id": "36b1d6afae6e0787",
+        "id": "0db21fd537fb314e",
         "type": "tabs",
         "children": [
           {
-            "id": "452f3f87b80cf1ce",
+            "id": "23822e087f2f79b0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "f8c1793a73337aa3",
+            "id": "60d006ab6451d3be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md",
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md",
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3de3fb0ea88f29d5",
+            "id": "76fc1015c88798f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,16 +120,12 @@
             }
           },
           {
-            "id": "63a577a35979dc4f",
+            "id": "e36bc8c3bc43f0f9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "PicoCTF/Actividad_14/shark on wire 1.md"
-=======
-                "file": "PicoCTF/Actividad_15/shark on wire 2.md"
->>>>>>> 1fdbdc3 (Act15)
+                "file": "PicoCTF/Actividad_17/Sleuthkit Intro.md"
               }
             }
           }
@@ -162,51 +146,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca1deb0c7cf81ba1",
+  "active": "aecc74cbb77af6a1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PicoCTF/Actividad_14/Glory of the Garden.md",
-    "PicoCTF/Actividad_14/So Meta.md",
-    "PicoCTF/Actividad_14/shark on wire 1.md",
-    "PicoCTF/Actividad_14/extensions.md",
-    "PicoCTF/Actividad_14/What Lies Within.md",
-=======
->>>>>>> 1fdbdc3 (Act15)
+    "PicoCTF/Actividad_17/Operation Orchid.md",
+    "PicoCTF/Actividad_17/Sleuthkit Apprentice.md",
+    "PicoCTF/Actividad_17/Sleuthkit Intro.md",
     "PicoCTF/Plantilla.md",
-    "PicoCTF/Actividad_15/shark on wire 2.md",
-    "PicoCTF/Actividad_15/like1000.md",
-    "PicoCTF/Actividad_15/c0rrupt.md",
-    "PicoCTF/Actividad_15/WhitePages.md",
-    "PicoCTF/Actividad_14/extensions.md",
-    "PicoCTF/Actividad_14/Glory of the Garden.md",
-    "PicoCTF/Actividad_14/So Meta.md",
-    "PicoCTF/Actividad_14/What Lies Within.md",
-    "PicoCTF/Actividad_15/m00nwalk.md",
-    "PicoCTF/Actividad_15",
-    "PicoCTF/Actividad_14/shark on wire 1.md",
-    "PicoCTF/Actividad_13/Trickster.md",
-    "PicoCTF/Actividad_14",
-    "Linux - entorno de pruebas.pdf",
-    "PicoCTF/Actividad_13/SOAP.md",
-    "PicoCTF/Actividad_13/Most Cookies.md",
-    "PicoCTF/Actividad_13/MatchTheRegex.md",
-    "PicoCTF/Actividad_12/Scavenger Hunt.md",
-    "PicoCTF/Actividad_13",
-    "PicoCTF/Actividad_12/GET aHEAD.md",
-    "PicoCTF/Parte3/Bases.md",
-    "PicoCTF/Parte4",
-    "PicoCTF/Nueva carpeta",
-    "PicoCTF/Parte3",
-    "PicoCTF/Parte2",
-    "PicoCTF/Parte1/Binary Search.md",
-    "PicoCTF/Parte1/Big Zip.md",
-    "PicoCTF/binhexa.md",
-    "PicoCTF/Parte1/binhexa.md",
-    "PicoCTF/Parte1",
-    "retos.bandit/Plantilla.md",
-    "PicoCTF/Binary Search.md",
-    "PicoCTF/Big Zip.md",
-    "retos.bandit/Bandit Level 1 → Level 2.md",
-    "PicoCTF"
+    "PicoCTF/Actividad_17/Operation Oni.md",
+    "PicoCTF/Actividad_17/Milkslap.md",
+    "PicoCTF/Actividad_17/Disk, disk, sleuth!.md",
+    "MetaredCTF/hashed world408.md",
+    "PicoCTF/Actividad_17",
+    "Sin título.md"
   ]
 }
