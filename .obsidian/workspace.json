@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad_19/miniRSA.md",
+                "file": "PicoCTF/Actividad_20/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miniRSA"
+              "title": "ReadMyCert"
             }
           }
         ]
@@ -164,10 +164,18 @@
   },
   "active": "d8bb4c50f007ca30",
   "lastOpenFiles": [
-    "PicoCTF/Actividad_19/rsa-pop-quiz.md",
-    "PicoCTF/Actividad_19/b00tl3gRSA2.md",
-    "PicoCTF/Actividad_19/miniRSA.md",
+    "PicoCTF/Actividad_20/HideToSee.md",
+    "PicoCTF/Actividad_20/Pixelated.md",
+    "PicoCTF/Actividad_20/ReadMyCert.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Actividad_20/basic-mod1.md",
+    "PicoCTF/Actividad_20/Mind your Ps and Qs.md",
+    "PicoCTF/Actividad_19/miniRSA.md",
+    "PicoCTF/Actividad_19/rsa-pop-quiz.md",
+    "PicoCTF/Actividad_18/13.md",
+    "PicoCTF/Actividad_20/Sin nombre",
+    "PicoCTF/Actividad_20",
+    "PicoCTF/Actividad_19/b00tl3gRSA2.md",
     "PicoCTF/Actividad_18/waves over lambda.md",
     "PicoCTF/Actividad_19",
     "PicoCTF/Actividad_18/la cifra de.md",
@@ -175,7 +183,6 @@
     "PicoCTF/Actividad_18/Easy1.md",
     "PicoCTF/Actividad_18/The Numbers.md",
     "PicoCTF/Actividad_18/caesar.md",
-    "PicoCTF/Actividad_18/13.md",
     "MetaredCTF/UH HAH HA.md",
     "PicoCTF/Actividad_18"
   ]

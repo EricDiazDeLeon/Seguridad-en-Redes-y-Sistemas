@@ -1,11 +1,9 @@
+## Objetivo
 
-## Objetivo 
-
-## Solución  
+## Solución
 ```bash
 
 ```
-## Notas Adicionales 
+## Notas Adicionales
 
 ### Referencias
-
