@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Actividad_20/ReadMyCert.md",
+                "file": "PicoCTF/Segundo_Examen/Forensic_1/Packets Primer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadMyCert"
+              "title": "Packets Primer"
             }
           }
         ]
@@ -164,26 +164,40 @@
   },
   "active": "d8bb4c50f007ca30",
   "lastOpenFiles": [
-    "PicoCTF/Actividad_20/HideToSee.md",
-    "PicoCTF/Actividad_20/Pixelated.md",
-    "PicoCTF/Actividad_20/ReadMyCert.md",
     "PicoCTF/Plantilla.md",
-    "PicoCTF/Actividad_20/basic-mod1.md",
-    "PicoCTF/Actividad_20/Mind your Ps and Qs.md",
-    "PicoCTF/Actividad_19/miniRSA.md",
-    "PicoCTF/Actividad_19/rsa-pop-quiz.md",
-    "PicoCTF/Actividad_18/13.md",
+    "PicoCTF/Segundo_Examen/Forensic_1/Packets Primer.md",
+    "PicoCTF/Segundo_Examen/Forensic_1/MSB.md",
+    "PicoCTF/Segundo_Examen/Forensic_1/FindAndOpen.md",
+    "PicoCTF/Segundo_Examen/Web_2/Who are you.md",
+    "PicoCTF/Segundo_Examen/Web_2/Roboto Sans.md",
+    "PicoCTF/Segundo_Examen/Web_2/login.md",
+    "PicoCTF/Segundo_Examen/Web_1/SQLiLite.md",
+    "PicoCTF/Segundo_Examen/Web_1/SQL Direct.md",
+    "PicoCTF/Segundo_Examen/Web_1/Secrets.md",
+    "PicoCTF/Segundo_Examen/Web_1/Search source.md",
+    "PicoCTF/Segundo_Examen/Web_1/Sin nombre",
+    "PicoCTF/Segundo_Examen/Web_1/Power Cookie.md",
+    "PicoCTF/Segundo_Examen/Web_1/More SQLi.md",
+    "PicoCTF/Segundo_Examen/Web_1/Local Authority.md",
+    "PicoCTF/Segundo_Examen/Web_1/Inspect HTML.md",
+    "PicoCTF/Segundo_Examen/Web_1/Includes.md",
+    "PicoCTF/Segundo_Examen/Web_1/Bookmarklet.md",
+    "PicoCTF/Segundo_Examen/Web_2/Java Code Analysis!?!.md",
+    "PicoCTF/Segundo_Examen/Web_1",
+    "PicoCTF/Segundo_Examen/Web_2/It is my Birthday.md",
+    "PicoCTF/Segundo_Examen/Web_2/caas.md",
+    "PicoCTF/Segundo_Examen/Web_2/Unminify.md",
+    "PicoCTF/Segundo_Examen/Web_2/IntroToBurp.md",
+    "PicoCTF/Segundo_Examen/Forensic_2/Wireshark twoo twooo two twoo....md",
+    "PicoCTF/Segundo_Examen/Web_2",
+    "PicoCTF/Segundo_Examen/Forensic_2/St3g0.md",
+    "PicoCTF/Segundo_Examen/Forensic_2/Redaction gone wrong.md",
+    "PicoCTF/Segundo_Examen/Forensic_2/Pitter, Patter, Platters.md",
+    "PicoCTF/Segundo_Examen/Forensic_2",
+    "PicoCTF/Segundo_Examen",
     "PicoCTF/Actividad_20/Sin nombre",
     "PicoCTF/Actividad_20",
-    "PicoCTF/Actividad_19/b00tl3gRSA2.md",
-    "PicoCTF/Actividad_18/waves over lambda.md",
     "PicoCTF/Actividad_19",
-    "PicoCTF/Actividad_18/la cifra de.md",
-    "PicoCTF/Actividad_18/Tapping.md",
-    "PicoCTF/Actividad_18/Easy1.md",
-    "PicoCTF/Actividad_18/The Numbers.md",
-    "PicoCTF/Actividad_18/caesar.md",
-    "MetaredCTF/UH HAH HA.md",
     "PicoCTF/Actividad_18"
   ]
 }
