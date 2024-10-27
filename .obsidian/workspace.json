@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Segundo_Examen/Forensic_1/Packets Primer.md",
+                "file": "PicoCTF/Segundo_Examen/Forensic_2/Disk, disk, sleuth! II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packets Primer"
+              "title": "Disk, disk, sleuth! II"
             }
           }
         ]
@@ -164,7 +164,9 @@
   },
   "active": "d8bb4c50f007ca30",
   "lastOpenFiles": [
+    "PicoCTF/Segundo_Examen/Forensic_2/Wireshark twoo twooo two twoo....md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/Segundo_Examen/Forensic_2/Disk, disk, sleuth! II.md",
     "PicoCTF/Segundo_Examen/Forensic_1/Packets Primer.md",
     "PicoCTF/Segundo_Examen/Forensic_1/MSB.md",
     "PicoCTF/Segundo_Examen/Forensic_1/FindAndOpen.md",
@@ -188,11 +190,9 @@
     "PicoCTF/Segundo_Examen/Web_2/caas.md",
     "PicoCTF/Segundo_Examen/Web_2/Unminify.md",
     "PicoCTF/Segundo_Examen/Web_2/IntroToBurp.md",
-    "PicoCTF/Segundo_Examen/Forensic_2/Wireshark twoo twooo two twoo....md",
     "PicoCTF/Segundo_Examen/Web_2",
     "PicoCTF/Segundo_Examen/Forensic_2/St3g0.md",
     "PicoCTF/Segundo_Examen/Forensic_2/Redaction gone wrong.md",
-    "PicoCTF/Segundo_Examen/Forensic_2/Pitter, Patter, Platters.md",
     "PicoCTF/Segundo_Examen/Forensic_2",
     "PicoCTF/Segundo_Examen",
     "PicoCTF/Actividad_20/Sin nombre",
